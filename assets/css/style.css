@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bgcolor:hover{
+ background-color: wheat;
+ 
+}
+
+.bgcolor{
+    background-color: black;
+    border-radius: 2px solid black;
+    
+    width: 100%;
+}
+
+.bgcolor ul li{
+display: inline;
+}
+.bgcolor ul li{
+    padding: 20px;
+}
+.bgcolor ul li{
+    ;
+}
+.nav ul li:hover{
+  background-color: thistle;
+  border-radius: 20px;
+}
+.nav2 ul li:hover{
+  font-size: large;
+  background-color:orange;
+  transition: 1s;
+}
+
+
+.nav2 ul li a{
+ text-decoration: none;
+}
+.nav2 ul li a{
+color: white;
+}
+.bgcolor:hover ul li a{
+    color: black;}
+.nav{
+    position: ;
+}
+.bot h5{
+  font-family: 'Poppins', serif;
+}
+.bot h4{
+   font-family: 'Poppins', serif;
+}
+.dv img{
+  width: 100%;
+}
+.bot a{
+  color: white;
+}
+.bot a:hover{
+  font-size: 20px;
+}
+.dew h1{
+  margin-top: 20px;
+  color: white;
+}
+.bgcolor:hover #dmd{
+  visibility: hidden;
+}
+.jema h1{
+  font-family: 'Indie Flower', cursive;
+}
+.img2 img{
+  height: 250px;
+  width: 300px;
+  margin:8px 5px;
+
+}
+
+.img3 img:hover{
+  height: 400px;
+  width: 350px;
+  z-index: 1;
+-webkit-animation-name: zoom;
+position: absolute;
+}
